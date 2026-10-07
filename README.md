@@ -6,4 +6,4 @@ I play micro-stakes on weekends and wanted something local to review leaks witho
 
 Add `--csv` to dump raw hand data for spreadsheet tinkering. Stats print to stdout by default.
 
-<!-- refreshed: 2026-10-06 -->
+<!-- refreshed: 2026-10-07 -->
